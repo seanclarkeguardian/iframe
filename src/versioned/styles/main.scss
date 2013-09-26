@@ -1,0 +1,10 @@
+// The main stylesheet. This is the file that will be compiled to styles/min.css -
+// import all your subsidiary stylesheets here
+
+// default imports
+@import "guardian/base";
+
+
+// project-specific styles. It's recommended to split these styles up into different files
+// rather than shoving them all in 'base.scss' - just remember to import them
+@import "base";
