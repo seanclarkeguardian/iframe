@@ -43,7 +43,7 @@ module.exports = function(grunt) {
 
 		baseUrl: 'http://interactive.guim.co.uk/',
 
-		projectPath: 'next-gen/2013/sep/sean/',
+		projectPath: 'next-gen/test/sean/ng-interactive/',
 		version: 'x',
 		versionDir: 'v/<%= version %>/',
 		
